@@ -71,6 +71,6 @@ setup(name='descriptastorus',
               ]
           },
       install_requires=['pandas_flavor==0.2.0',
-                        'pandas>=0.24.0']
+                        'pandas>=0.24.0'],
       packages = find_packages())
 
